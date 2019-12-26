@@ -202,6 +202,9 @@
   .main_img_box {
     width: 100%;
   }
+  .gallery {
+    height: 600px;
+  }
   .img_gallery_box {
     width: 100%;
   }
