@@ -203,11 +203,14 @@
     width: 100%;
   }
   .img_gallery_box {
+    width: 100%;
+  }
+  /* .img_gallery_box {
     display: flex;
     flex-direction: unset;
     width: 100%;
     flex-wrap: wrap;
-  }
+  } */
   .small_img {
     margin-top: 0px;
     width: 45%;
