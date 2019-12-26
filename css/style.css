@@ -198,9 +198,11 @@
   }
   .gallery_wrapper {
     flex-direction: column;
+    height: unset;
   }
   .main_img_box {
     width: 100%;
+    height: 300px;
   }
   .gallery {
     height: 600px;
